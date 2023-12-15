@@ -1,0 +1,18 @@
+To run this Website in your Browser follow these steps:-
+1. Extract the "IMS Website" folder.
+2. Open the Folder Extracted earlier 
+3. A folder by the name "Website" is located there.
+4. Simply, drag and drop this folder to Visual Studio Code
+                        or
+4. Open Visual Studio Code, on the top left section you will see many options, just click on files* a popup will appear or
+   use this shortcut (ctrl+k+o), select open folder* option, a small window showing which folder to select, then locate the 
+   small window to the extracted folder by the name "Website" and select it.
+5. On the top left you will see an Explorer section with the folder you just selected,use as this path 
+   Website>html files>index.html .In the index.html file you will see a live preview option on the top right, if you did 
+   not have live preview installed then simply, go to extensions or use this shortcut (ctrl+shift+x) and then search live 
+   preview, many similar extensions will apear by this name, but i recommend installing the live preview by microsoft.
+   after installing a small search like icon will apear on the top right of your window. now go back to index.html file in
+   the directory and click on live preview option on the top right a small partition in window appear, in that small parition
+   you will see an option by four lines, just click it and in the popup select open in browser option , if a popup appear 
+   then just allow it.
+6. The website will now work on your pc.
